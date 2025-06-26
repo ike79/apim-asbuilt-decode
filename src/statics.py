@@ -2843,7 +2843,7 @@ class Fields(object):
             'type': 'mask',
             'size': 2,
             'items': 4,
-            '0': 'Disdabled',
+            '0': 'Disabled',
             '1': 'Mode 1 (ApaTrgtDist_D_Stat not supported)',
             '2': 'Mode 2 (ApaMsgTxt_D_Rq not supported)',
             '3': 'Mode 3 (Both not supported)',
